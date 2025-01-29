@@ -1,4 +1,3 @@
-const blogpostFormDiv = document.getElementById("post-form-div");
 const postForm = document.getElementById("post-form");
 const postTitleInput = document.getElementById("title");
 const postContentInput = document.getElementById("post-body");
